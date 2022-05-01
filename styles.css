@@ -119,9 +119,9 @@ h2 {
 
 /* NAVIGATION BAR */
 .navbar {
-  width: 100%;
+  width: 110%;
   background-color: #990073;
-  overflow: auto;
+  overflow: hidden;
 }
 
 /* Navbar links */
